@@ -390,7 +390,6 @@ span {
 
 /* Padding right from the arrows and pointer for skills */
 .skill-set i {
-  letter-spacing: 0.2rem;
   padding-right: 0.5rem;
   cursor: pointer;
 }
